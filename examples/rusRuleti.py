@@ -1,6 +1,4 @@
-#şimdi bak ece
-
-
+#ŞİMDİ gelmiş olmalı
 import random
 import tkinter as tk
 
