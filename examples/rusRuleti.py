@@ -1,3 +1,6 @@
+#şimdi bak ece
+
+
 import random
 import tkinter as tk
 
